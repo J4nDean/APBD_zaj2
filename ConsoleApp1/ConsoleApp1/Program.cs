@@ -23,4 +23,17 @@ public class Program
         }
         Console.WriteLine("Srednia tablicy wynosi: " + sum/tab.Length);
     }
+    
+    public static void MaxInt(int[] tab)
+    {
+        int max = tab[0];
+        for (int i = 0; i < tab.Length; i++)
+        {
+            if (tab[i] > max)
+            {
+                max = tab[i];
+            }
+        }
+        Console.WriteLine("Max tablicy wynosi: " + max);
+    }
 }
