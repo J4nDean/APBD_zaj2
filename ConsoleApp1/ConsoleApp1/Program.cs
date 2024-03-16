@@ -34,6 +34,6 @@ public class Program
                 max = tab[i];
             }
         }
-        Console.WriteLine("Max tablicy wynosi: " + max);
+        Console.WriteLine("Max tablicy wynosi: " + max + " na pozycji: " + Array.IndexOf(tab, max));
     }
 }
