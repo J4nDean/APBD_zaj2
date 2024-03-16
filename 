@@ -1,0 +1,62 @@
+[33mcommit a53c58a43e2eea470e0260e106209e02537155a8[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-max[m[33m, [m[1;31morigin/feature-max[m[33m)[m
+Author: J4nDean <jandziekan333@gmail.com>
+Date:   Sat Mar 16 11:41:26 2024 +0100
+
+    Metoda wyszukujaca maksymalna wartosc - dodano wypisywanie indeksu tej wartosci
+
+[33mcommit df8660d0da64f028c6eee163c185abbe3e3b0fef[m
+Author: J4nDean <jandziekan333@gmail.com>
+Date:   Sat Mar 16 11:40:17 2024 +0100
+
+    Metoda wyszukujaca maksymalna wartosc
+
+[33mcommit 28b4cbfe043fcae716f16576c89a586e6f8f28b5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 42776fe 827408a
+Author: s24755 <91469784+J4nDean@users.noreply.github.com>
+Date:   Sat Mar 16 11:28:40 2024 +0100
+
+    Merge pull request #1 from J4nDean/feature-average
+    
+    Feature average
+
+[33mcommit 827408ab4452ba41046655057a1b66cab382db2d[m[33m ([m[1;31morigin/feature-average[m[33m, [m[1;32mfeature-average[m[33m)[m
+Author: J4nDean <jandziekan333@gmail.com>
+Date:   Sat Mar 16 11:25:15 2024 +0100
+
+    Metoda Srednia - dodanie komunikatu
+
+[33mcommit 318d6b3e5bf748fd0a01787e434d2898088f1734[m
+Author: J4nDean <jandziekan333@gmail.com>
+Date:   Sat Mar 16 11:22:52 2024 +0100
+
+    Metoda Srednia
+
+[33mcommit 42776fe7ced1e3df510a66291c764352e8069cfc[m
+Author: J4nDean <jandziekan333@gmail.com>
+Date:   Sat Mar 16 11:08:13 2024 +0100
+
+    Modyfikacja 3
+
+[33mcommit 5c273aa117857da5769174ce06240a07025f7e79[m
+Author: J4nDean <jandziekan333@gmail.com>
+Date:   Sat Mar 16 11:06:53 2024 +0100
+
+    Modyfikacja 2
+
+[33mcommit 1e7a92bf56b7853048ec9933efd5f08c0d9b7ca9[m
+Author: J4nDean <jandziekan333@gmail.com>
+Date:   Sat Mar 16 11:04:31 2024 +0100
+
+    Modyfikacja 1
+
+[33mcommit fb67326e76114a4dc2bb61c9fedb87a30f090831[m
+Author: J4nDean <jandziekan333@gmail.com>
+Date:   Sat Mar 16 11:00:33 2024 +0100
+
+    Initial project
+
+[33mcommit 834f485e1cc6e127100dafa68ae0b302137b9aa5[m
+Author: s24755 <91469784+J4nDean@users.noreply.github.com>
+Date:   Sat Mar 16 10:57:00 2024 +0100
+
+    Initial commit
