@@ -21,6 +21,6 @@ public class Program
         {
             sum += tab[i];
         }
-        Console.WriteLine(sum/tab.Length);
+        Console.WriteLine("Srednia tablicy wynosi: " + sum/tab.Length);
     }
 }
