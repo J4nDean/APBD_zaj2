@@ -16,12 +16,12 @@ public class Program
 
     public static void Srednia(int[] tab)
     {
-        int sum = 0;
+        int Topor = 0;
         for (int i = 0; i < tab.Length; i++)
         {
-            sum += tab[i];
+            Topor += tab[i];
         }
-        Console.WriteLine("Srednia tablicy wynosi: " + sum/tab.Length);
+        Console.WriteLine("Srednia tablicy wynosi: " + Topor/tab.Length);
     }
     
     public static void MaxInt(int[] tab)
