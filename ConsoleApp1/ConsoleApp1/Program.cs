@@ -8,5 +8,19 @@ public class Program
         {
             Console.WriteLine("Hello, APBD!");
         }
+        
+        int [] tab = {10, 20, 30, 40, 50};
+        Srednia(tab);
+        
+    }
+
+    public static void Srednia(int[] tab)
+    {
+        int sum = 0;
+        for (int i = 0; i < tab.Length; i++)
+        {
+            sum += tab[i];
+        }
+        Console.WriteLine(sum/tab.Length);
     }
 }
